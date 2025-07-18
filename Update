@@ -4,10 +4,10 @@
   "Msg": "New update is available, to continue in our app please update it.
 
 What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
+✔️ This version enables the activation of some banned numbers.
+🛡 [Improved] protection against bans.
+🛡 [Improved] Enhanced device linking.
+🛡 [Improved] Notifications now arrive in real time without any delay.
 
 Thanks for using",
   "downloadLink": "https://t.me/@smalicode"
